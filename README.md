@@ -1,3 +1,6 @@
+This is a documentation application build by MERN stack, designed for company to save and share files, it provide a platform to edit, delete and share files between whether same department or different, all change on documents are saved and can be recovered. It was real time deployed and monitered by jenkins on our server.
+
+How to deploy:
 1. Without Docker:
     Move location under backend and run 'npm install' this will install the dependencies. Then 'npm run server', this should start the backend server.
     Move location under client and run 'npm install' this will install the dependencies. Then 'npm start', this should start the frontend server.
